@@ -4,7 +4,7 @@ Sistem untuk membandingkan apakah dua foto merupakan orang yang sama atau berbed
 
 Cara Menggunakan
 1.Buka aplikasi yang tersedia.
-2Upload dua foto untuk dibandingkan.
+2.Upload dua foto untuk dibandingkan.
 3.(Opsional) Lakukan training dataset atau upload model .pkl yang sudah ada untuk hasil lebih akurat.
 
 ⚠️ Perhatian
