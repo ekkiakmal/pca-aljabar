@@ -3,9 +3,9 @@ Face Recognition
 Sistem untuk membandingkan apakah dua foto merupakan orang yang sama atau berbeda menggunakan metode Principal Component Analysis (PCA).
 
 Cara Menggunakan
-Buka aplikasi yang tersedia.
-Upload dua foto untuk dibandingkan.
-(Opsional) Lakukan training dataset atau upload model .pkl yang sudah ada untuk hasil lebih akurat.
+1.Buka aplikasi yang tersedia.
+2Upload dua foto untuk dibandingkan.
+3.(Opsional) Lakukan training dataset atau upload model .pkl yang sudah ada untuk hasil lebih akurat.
 
 ⚠️ Perhatian
 Ukuran file ZIP untuk training maksimal 200 MB.
